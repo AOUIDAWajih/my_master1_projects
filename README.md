@@ -9,6 +9,7 @@ quelle problème d'optimisation est utilisé pour obtenir la nouvelle représent
  comment ce problème d'optimisation est-il résolu ? est-on sûr que la méthode de résolution adoptée pour cette méthode conduit à une minimisation globale ?
  
  qss2 : https://drive.google.com/file/d/1lSP1XFFKdOAjKZcLFyyOEfi-IDIIt_D0/view
+ 
  qss3 : https://drive.google.com/file/d/19csRbAlKP5KMXEmu4GlQzx1Civ9tOFE6/view
 
  
